@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/satyam/Desktop/my codes/mooreoverlapping_type1101/moore1101_test_isim_beh.exe" -prj "C:/Users/satyam/Desktop/my codes/mooreoverlapping_type1101/moore1101_test_beh.prj" "work.moore1101_test" "work.glbl" 
