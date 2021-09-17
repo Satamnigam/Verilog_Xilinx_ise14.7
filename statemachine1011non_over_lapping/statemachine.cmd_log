@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/satyam/Desktop/my codes/statemachine1011non_over_lapping/statemachine.xst" -ofn "C:/Users/satyam/Desktop/my codes/statemachine1011non_over_lapping/statemachine.syr" 

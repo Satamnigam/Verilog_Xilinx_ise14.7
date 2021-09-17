@@ -1,0 +1,14 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/satyam/Desktop/my codes/statemachine1011non_over_lapping/nonoverlapping_test_isim_beh.exe -prj C:/Users/satyam/Desktop/my codes/statemachine1011non_over_lapping/nonoverlapping_test_beh.prj work.nonoverlapping_test work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/satyam/Desktop/my codes/statemachine1011non_over_lapping/non_ovelaping1011.v" into library work
+WARNING:HDLCompiler:751 - "C:/Users/satyam/Desktop/my codes/statemachine1011non_over_lapping/non_ovelaping1011.v" Line 28: Redeclaration of ansi port s is not allowed
+Analyzing Verilog file "C:/Users/satyam/Desktop/my codes/statemachine1011non_over_lapping/nonoverlapping_test.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:267 - "C:/Users/satyam/Desktop/my codes/statemachine1011non_over_lapping/nonoverlapping_test.v" Line 36: Cannot find port outstate on this module
+ERROR:HDLCompiler:25 - "C:/Users/satyam/Desktop/my codes/statemachine1011non_over_lapping/nonoverlapping_test.v" Line 40: Module <statemachine> does not have a port named <outstate>.
+WARNING:HDLCompiler:1016 - "C:/Users/satyam/Desktop/my codes/statemachine1011non_over_lapping/nonoverlapping_test.v" Line 36: Port s is not connected to this instance
+ERROR:Simulator:778 - Static elaboration of top level Verilog design unit(s) in library work failed
