@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\Users\satyam\Desktop\my codes\counter_FPGA\impact.xsl
+OUTFILE=C:\Users\satyam\Desktop\my codes\counter_FPGA\impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=C:\Users\satyam\Desktop\my codes\counter_FPGA
+LICENSE=iMPACT
+USER_INFO=iMPACT
